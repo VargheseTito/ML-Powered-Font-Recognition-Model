@@ -1,6 +1,8 @@
 # ML-Powered-Font-Recognition-Model
 Font Recognition Model using CNN
 
+Dataset Link- https://www.kaggle.com/datasets/muhammadardiputra/font-recognition-data/data
+
 Project Overview:
 
 The goal of this project is to develop a font recognition model powered by machine
